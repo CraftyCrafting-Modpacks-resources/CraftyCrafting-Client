@@ -1,0 +1,4 @@
+fix-infested-block-breaking: false
+shield-blocking: false
+no-delay-shield-blocking: true
+handle-invalid-item-count: true

@@ -1,0 +1,50 @@
+—————————————————————————————————————————
+
+   CraftyCrafting Terms and Conditions
+        2024 © CraftyCrafting Co.
+
+—————————————————————————————————————————
+
+By using this software, you agree to the following terms and conditions ("Terms"):
+
+1. Freedom to Use, Share, and Modify:
+   - You are free to use, share, copy, modify, and distribute the software, in both original and modified forms, for any purpose, under the following conditions:
+
+2. Attribution:
+   - You must give appropriate credit by prominently linking to the original project and acknowledging the organization behind the software. You should provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+3. No Additional Restrictions:
+   - You may not apply legal terms or technological measures that restrict others from exercising the rights granted under this license.
+
+4. No Warranty and Limitation of Liability:
+   - The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+   - In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+5. Indemnification:
+   - You agree to indemnify and hold harmless the authors or copyright holders from any third-party claims or liabilities arising out of your use of the software.
+
+6. Termination:
+   - Your rights under this license will automatically terminate if you fail to comply with its terms.
+
+7. Compatibility:
+   - If the software is combined with or included in other software that is licensed under different terms, the terms of this license apply to the software as a whole.
+
+8. Trademark Use:
+   - You may not use any trademarks associated with the software without prior written permission.
+
+Additional Conditions:
+
+9. Usage Restrictions:
+   - You may not use the software in any way that is unlawful, harmful, or inappropriate, including activities that infringe intellectual property rights, violate privacy rights, or disrupt the operation of computer systems.
+
+10. Non-discrimination:
+    - You may not use the software to discriminate against any person or group of persons.
+
+Disclaimers:
+- The software is provided with no warranties whatsoever. You assume all risks associated with its use.
+- The authors and contributors of this software disclaim any responsibility for any damages
+ or liabilities, whether direct, indirect, or consequential, resulting from the use or inability to use the software.
+
+
+
+NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
